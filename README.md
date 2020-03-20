@@ -4,3 +4,4 @@
 * [Guacamole](guacamole.md)
 
 ## Hot sauces
+* [Salsa](salsa.txt)
