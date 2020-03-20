@@ -4,6 +4,7 @@
 * [Guacamole](guacamole.md)
 * [Tzatziki](tzatziki.md)
 * [Salad dressing](salad_dressing.md)
+* [Sour Chive](sourchive.md)
 
 
 ## Hot sauces
