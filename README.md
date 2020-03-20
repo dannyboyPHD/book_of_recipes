@@ -2,6 +2,9 @@
 
 ## Cold sauces
 * [Guacamole](guacamole.md)
-* [Sour Chives](sour_chive.txt)
+* [Tzatziki](tzatziki.md)
+* [Salad dressing](salad_dressing.md)
+
 
 ## Hot sauces
+* [Salsa](salsa.txt)
